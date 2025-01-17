@@ -6,7 +6,7 @@ This repository includes the solutions to several practical algorithm and data s
 **1.a) Second Largest Element in a List** 
 
   A Python function to find the second largest element in an unsorted list.
-Time Complexity: O(n), as the list is traversed once.
+\nTime Complexity: O(n), as the list is traversed once.
 
 **1.b) Reverse String Using Stack** 
 
