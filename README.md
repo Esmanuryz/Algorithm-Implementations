@@ -26,9 +26,9 @@
   
 - Time Complexity:
 
-- 1. Enqueue: O(1)
+1. Enqueue: O(1)
 
-- 2. Dequeue: O(n) in the worst case.
+2. Dequeue: O(n) in the worst case.
 
 
 
@@ -47,10 +47,10 @@
 &nbsp; &nbsp; &nbsp; A recursive Python function to calculate the nth Fibonacci number, along with an optimized memoized version for better performance.
   
 - Time Complexity:
+  
+1. Recursive: O(2^n).
 
-- 1. Recursive: O(2^n).
-
-- 2. Memoized: O(n).
+2. Memoized: O(n).
 
 
 
