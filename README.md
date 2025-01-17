@@ -8,7 +8,7 @@
 &nbsp; &nbsp; &nbsp; A Python function to find the second largest element in an unsorted list.
 
   
-Time Complexity: O(n), as the list is traversed once.
+- Time Complexity: O(n), as the list is traversed once.
 
 
 
@@ -16,7 +16,7 @@ Time Complexity: O(n), as the list is traversed once.
 
 &nbsp; &nbsp; &nbsp; A Python function that reverses a string using a stack data structure.
   
-Time Complexity: O(n), where nnn is the length of the string.
+- Time Complexity: O(n), where n is the length of the string.
 
 
 
@@ -24,11 +24,11 @@ Time Complexity: O(n), where nnn is the length of the string.
 
 &nbsp; &nbsp; &nbsp; A Python class to implement a queue using two stacks.
   
-Time Complexity:
+- Time Complexity:
 
-Enqueue: O(1)
+- 1. Enqueue: O(1)
 
-Dequeue: O(n) in the worst case.
+- 2. Dequeue: O(n) in the worst case.
 
 
 
@@ -36,9 +36,9 @@ Dequeue: O(n) in the worst case.
 
 &nbsp; &nbsp; &nbsp;A Python implementation of the Merge Sort algorithm using divide-and-conquer.
   
-Time Complexity: O(n log⁡n).
+- Time Complexity: O(n log⁡n).
 
-Space Complexity: O(n) due to additional memory usage during merging.
+- Space Complexity: O(n) due to additional memory usage during merging.
 
 
 
@@ -46,11 +46,11 @@ Space Complexity: O(n) due to additional memory usage during merging.
 
 &nbsp; &nbsp; &nbsp; A recursive Python function to calculate the nth Fibonacci number, along with an optimized memoized version for better performance.
   
-Time Complexity:
+- Time Complexity:
 
-Recursive: O(2^n).
+- 1. Recursive: O(2^n).
 
-Memoized: O(n).
+- 2. Memoized: O(n).
 
 
 
@@ -58,5 +58,5 @@ Memoized: O(n).
 
 &nbsp; &nbsp; &nbsp; A Python simulation of a dynamic array that resizes itself when full, doubling its size with each resize operation.
   
-Amortized Complexity: O(1) average insertion time.
+- Amortized Complexity: O(1) average insertion time.
 
